@@ -2,7 +2,7 @@
 <h1 align = center> Chinaza Blossom</h1>
 Hi I'm Chinaza Blossom, I'm currently studying Computer Science at Lagos State University. 
 
-I'm currently learning <b>kotlin</b> and <b>Android</b> at [Jetbrains Academy](https://www.jetbrains.com/academy/) 
+And i'm also currently learning <b>kotlin</b> and <b>Android</b> at [Jetbrains Academy](https://www.jetbrains.com/academy/) 
 
 My CodeWars profile:<br/>
 <a href="https://www.codewars.com/users/Chinazablossom"><img src="https://www.codewars.com/users/Chinazablossom/badges/large?logo=false"></a>
