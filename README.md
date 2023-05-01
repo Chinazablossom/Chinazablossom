@@ -2,8 +2,6 @@
 <h1 align = center> Chinaza Blossom</h1>
 Hi I'm Chinaza Blossom, I'm currently studying Computer Science at Lagos State University. 
 
-And i'm also currently learning <b>kotlin</b> and <b>Android</b> at [Jetbrains Academy](https://www.jetbrains.com/academy/) 
-
  -My Jetbrains profile:
  [Chinaza Blossom](https://hyperskill.org/profile/293393664)
 
