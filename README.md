@@ -2,8 +2,7 @@
 <h1 align = center> Chinaza Blossom</h1>
 Hi I'm Chinaza Blossom, I'm currently studying Computer Science at Lagos State University. 
 
- -My Jetbrains profile:
- [Chinaza Blossom](https://hyperskill.org/profile/293393664)
+
 
 
 
